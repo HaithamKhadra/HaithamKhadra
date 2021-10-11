@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @HaithamKhadra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello 👋, I’m Haitham Khadra
 
-<!---
-HaithamKhadra/HaithamKhadra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Toolbox
+<div>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="25" height="25"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3 Logo" width="25" height="25"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="25" height="25"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="25" height="25"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="25" height="25"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="25" height="25"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="25" height="25"/>
+</div>
