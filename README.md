@@ -1,5 +1,8 @@
 ## Hello 👋, I’m Haitham Khadra
 
+- 😀 In college I majored in Biology🧬, but I found my passion in writing 😍Codes💻(I still enjoy biology as a general knowledge😅).
+- I am currently learning [Data Structures and Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/), to improve my coding skills and computational thinking.
+- At the moment I am also figuring out the fundamentals of Blockchain🕸, In addition to diving into React Native📱. 
 
 ### Toolbox
 <div>
