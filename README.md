@@ -13,7 +13,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="Gatsby Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="GraphQL Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="35" height="35"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="35" height="35"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Django Logo" width="35" height="35"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Django Logo" width="50" height="50"/>
 </div>
