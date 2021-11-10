@@ -6,14 +6,14 @@
 
 ### Toolbox
 <div>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="25" height="25"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3 Logo" width="25" height="25"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="25" height="25"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="25" height="25"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="25" height="25"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="Gatsby Logo" width="25" height="25"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="GraphQL Logo" width="25" height="25"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="25" height="25"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="25" height="25"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Django Logo" width="25" height="25"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3 Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="Gatsby Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="GraphQL Logo" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="35" height="35"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="35" height="35"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Django Logo" width="35" height="35"/>
 </div>
